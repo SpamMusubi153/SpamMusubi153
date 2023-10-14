@@ -1,4 +1,9 @@
-### Hello.
+
+### Hello! I am an undergraduate student studying Computer Science (CS) at Seattle University.
+
+I believe that programming and STEM need to be informed by the **humanities** to be more *accessible, inclusive, and beneficial to all*.
+
+I am currently working on exploring this type of intersection with respect to Artificial Intelligence (AI) and Machine Learning (ML).
 
 <!--
 **SpamMusubi153/SpamMusubi153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
